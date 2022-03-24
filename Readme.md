@@ -8,7 +8,7 @@ Skate blog developed from a previously thought layout and delivered designed in 
 
 ## Demo
 
-
+https://hzc.vercel.app/
 
 ## Project Features
 
@@ -41,7 +41,7 @@ Skate blog developed from a previously thought layout and delivered designed in 
 Clone the project
 
 ```bash
-  git clone https://github.com/victorhubarb/SkillUp
+  git clone https://github.com/victorhubarb/HZC
 ```
 
 ## Future Implementations
